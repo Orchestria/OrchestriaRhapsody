@@ -1,6 +1,9 @@
 * {
   margin: 0px;
 }
+body {
+  background-color: #000000;
+}
 canvas {
   width: 512px;
   height: 448px;
