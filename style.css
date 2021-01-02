@@ -2,7 +2,7 @@
   margin: 0px;
 }
 canvas {
-  width: 1920px;
-  height: 1080px;
-  background: #0830e0;
+  width: 512px;
+  height: 448px;
+  background: #0000ff;
 }
